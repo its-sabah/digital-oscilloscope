@@ -8,12 +8,22 @@ The GUI allows users to change the original signal, with control over: wave type
 
 This then changes the Fourier Transform and Inverse Fourier Transform respectively. Users can apply left and right cuts to the Fourier transform; the more information cut from this signal, the less the inverse graph resembles the original signal.
 
-![gui screenshot](https://i.imgur.com/TnCE3Du.jpeg)
-
 Graded at 85%.
+
+## How to Run
+To generate the GUI, follow the following steps:
+1. Ensure that Anaconda/Spyder is downloaded with the standard packages (numpy, matplotlib, scipy)
+2. Download this code
+3. Enable interactive graphs by changing the backend to automatic:
+  a. Tools > preferences > IPython console > Graphics > Graphics backend > Backend: Automatic
+4. Click run & have fun!
+
+![gui screenshot](https://i.imgur.com/TnCE3Du.jpeg)
 
 
 ## Resources
+https://docs.spyder-ide.org/current/installation.html
+
 https://en.wikipedia.org/wiki/Fourier_transform
 
 https://en.wikipedia.org/wiki/Fourier_inversion_theorem
