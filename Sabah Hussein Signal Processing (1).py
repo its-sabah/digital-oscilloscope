@@ -11,7 +11,7 @@ import matplotlib.widgets as widg #adding widgets
 import scipy.signal as sig
 plt.close('all')
 
-# Sabah Hussein 14315394
+# Sabah H XXXX
 # Scientific Computing: Signal Processing Assingment
     #This code generates either a Sine, Square or Saw-tooth wave, which is 
     #  transformed into a fourier transform. Noise may be added to the signal,
