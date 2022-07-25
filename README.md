@@ -8,7 +8,7 @@ The GUI allows users to change the original signal, with control over: wave type
 
 This then changes the Fourier Transform and Inverse Fourier Transform respectively. Users can apply left and right cuts to the Fourier transform; the more information cut from this signal, the less the inverse graph resembles the original signal.
 
-![gui screenshot](https://imgur.com/TnCE3Du)
+![gui screenshot](https://i.imgur.com/TnCE3Du.jpeg)
 
 Graded at 85%.
 
